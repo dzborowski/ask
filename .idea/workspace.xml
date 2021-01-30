@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="251dd4a9-736b-4f8f-82f7-9d7a5dccc92a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/client/.dockerignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.dockerignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/.env" beforeDir="false" afterPath="$PROJECT_DIR$/server/.env" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lYePCn8ELj2T3aW2gjEErBOlk5" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="251dd4a9-736b-4f8f-82f7-9d7a5dccc92a" name="Default Changelist" comment="" />
+      <created>1607778426031</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607778426031</updated>
+      <workItem from="1607778427109" duration="1529000" />
+      <workItem from="1607879446880" duration="379000" />
+      <workItem from="1607879836625" duration="5954000" />
+      <workItem from="1608380566090" duration="4466000" />
+      <workItem from="1608387507822" duration="7255000" />
+      <workItem from="1608978546049" duration="12000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="715" y="376" width="480" height="362" key="#Docker" timestamp="1607881209488">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="715" y="376" width="480" height="362" key="#Docker/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1607881209488" />
+    <state x="741" y="468" width="428" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607879448473">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="741" y="468" width="428" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1607879448473" />
+    <state x="651" y="292" width="618" height="522" key="find.popup" timestamp="1607880160680">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="651" y="292" width="618" height="522" key="find.popup/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1607880160680" />
+    <state x="624" y="252" key="run.anything.popup" timestamp="1608391708972">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="624" y="252" key="run.anything.popup/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1608391708972" />
+  </component>
+</project>
